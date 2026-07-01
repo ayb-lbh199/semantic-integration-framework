@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------------------
+# Knowledge graph schema (Module 3).
+#
+# An explicit, versioned, plain-text schema. The paper rejects OWL: meaning is
+# carried by typed nodes and labeled edges, documented here, not by formal
+# axioms. The schema is extensible: new predicate types can be added without
+# modifying existing integrations.
+# ---------------------------------------------------------------------------
+version: "1.0"
+default_entity_type: Entity
+
+# A node is typed by the first matching rule (required fields all present).
+entity_typing:
+  Organization:
+    - name
+    - country
+  Person:
+    - name
+    - email
+
+# Map record fields to attribute predicates (subject-predicate-object).
+attribute_predicates:
+  name: hasName
+  city: hasCity
+  country: hasCountry
+  employees: hasEmployeeCount
+  revenue: hasRevenue
+
+# Allowed relation predicates between entities (extensible).
+relation_predicates:
+  - coLocatedWith
+  - operatesIn
+  - suppliesTo
+  - partOf
+  - locatedIn
+
+jsonld_context:
+  hasName: "http://schema.org/name"
+  hasCity: "http://schema.org/addressLocality"
+  hasCountry: "http://schema.org/addressCountry"
+  operatesIn: "http://example.org/operatesIn"

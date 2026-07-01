@@ -1,0 +1,108 @@
+# ---------------------------------------------------------------------------
+# Normalization rules for Module 1 (Transparent Data Normalization).
+#
+# Every rule carries an identifier and the file carries a version and an
+# effective date. An auditor can retrieve the exact rule active at the time of
+# any processing event. This is the operational form of Design Transparency
+# (DR2): the rules live outside the code, are human-readable, and every
+# application is recorded in the provenance log.
+#
+# The file is a worked demonstration of the four normalization operations the
+# paper names: schema alignment, type standardization, missing-value
+# imputation, and noise reduction, plus value standardization and versioned
+# currency conversion.
+# ---------------------------------------------------------------------------
+version: "1.2"
+rule_date: "2024-03-15"
+
+schema_alignment:
+  rule_id: NORM_SCHEMA_01
+  map:
+    client: name
+    company: name
+    client_name: name
+    org: name
+    ville: city
+    location: city
+    pays: country
+    nation: country
+    tel: phone
+    telephone: phone
+    ca: revenue
+    turnover: revenue
+    headcount: employees
+    staff: employees
+    entity_name: name
+    town: city
+    country_code: country
+
+type_standardization:
+  rule_id: NORM_TYPE_01
+  map:
+    name: string
+    city: string
+    country: string
+    phone: string
+    revenue: float
+    employees: integer
+
+null_values:
+  - ""
+  - "N/A"
+  - "n/a"
+  - "NULL"
+  - "null"
+  - "none"
+  - "-"
+  - "unknown"
+
+imputation:
+  rule_id: NORM_IMPUTE_01
+  strategy:
+    name: drop
+    city: mode
+    country: mode
+    revenue: median
+    employees: median
+
+noise_reduction:
+  rule_id: NORM_NOISE_01
+  strip_whitespace: true
+  deduplicate_spaces: true
+  lowercase_fields:
+    - country
+  remove_pattern:
+    phone: "[^0-9+]"
+  normalize_unicode: true
+
+value_mapping:
+  rule_id: NORM_VALUE_01
+  map:
+    country:
+      uk: United Kingdom
+      gb: United Kingdom
+      united kingdom: United Kingdom
+      usa: United States
+      us: United States
+      de: Germany
+      deutschland: Germany
+      fr: France
+      es: Spain
+      it: Italy
+      nl: Netherlands
+      spain: Spain
+      france: France
+      germany: Germany
+      italy: Italy
+      netherlands: Netherlands
+      united states: United States
+      united kingdom: United Kingdom
+
+currency_conversion:
+  rule_id: NORM_FIN_01
+  base_currency: EUR
+  rate_date: "2024-03-15"
+  rates:
+    USD: 0.92
+    GBP: 1.17
+    JPY: 0.0061

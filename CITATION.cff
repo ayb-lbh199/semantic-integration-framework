@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "Semantic Integration Framework"
+abstract: "An interpretable, auditable pipeline for enterprise data integration that combines transparent normalization, hybrid entity resolution, lightweight knowledge graph construction, and governed LLM annotation, with provenance tracked as an architectural property."
+type: software
+authors:
+  - family-names: Labhih
+    given-names: Ayoub
+    affiliation: HepTa Advisory Labs
+    email: ayoub.labhih@hepta-al.com
+    orcid: "https://orcid.org/0009-0004-2750-3801"
+  - family-names: Hafsi
+    given-names: Mouaad
+    affiliation: HepTa Advisory Labs
+  - family-names: Toumi
+    given-names: Aissa
+    affiliation: HepTa Advisory Labs
+    orcid: "https://orcid.org/0009-0006-1105-3724"
+  - family-names: Fosso-Wamba
+    given-names: Samuel
+    affiliation: TBS Education
+    orcid: "https://orcid.org/0000-0002-1073-058X"
+version: 1.0.0
+date-released: 2026-07-01
+license: MIT
+repository-code: "https://github.com/ayb-lbh199/semantic-integration-framework"
+keywords:
+  - knowledge-graphs
+  - design-science-research
+  - semantic-integration
+  - entity-resolution
+  - large-language-models
+  - interpretability
+  - enterprise-systems
+# Replace the DOI placeholder below once Zenodo issues the DOI for v1.0.0.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PLACEHOLDER"
+    description: "Permanent DOI for v1.0.0 (Zenodo)"
+preferred-citation:
+  type: conference-paper
+  title: "Bridging the Data-Knowledge Gap in Enterprises: A Design Science Approach to Interpretable Semantic Integration"
+  authors:
+    - family-names: Labhih
+      given-names: Ayoub
+      affiliation: HepTa Advisory Labs
+      orcid: "https://orcid.org/0009-0004-2750-3801"
+    - family-names: Hafsi
+      given-names: Mouaad
+      affiliation: HepTa Advisory Labs
+    - family-names: Toumi
+      given-names: Aissa
+      affiliation: HepTa Advisory Labs
+      orcid: "https://orcid.org/0009-0006-1105-3724"
+    - family-names: Fosso-Wamba
+      given-names: Samuel
+      affiliation: TBS Education
+      orcid: "https://orcid.org/0000-0002-1073-058X"
+  conference:
+    name: "IEEE International Conference on Business Informatics (CBI)"
+  year: 2026

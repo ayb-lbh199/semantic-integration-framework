@@ -1,0 +1,201 @@
+company,ville,pays,headcount,revenue,currency
+Umbrella Logistics 0 Ltd,London,United Kingdom,2303,12600000,EUR
+Initech Solutions 1,Milan,Italy,3506,1700000,EUR
+Massive Dynamic 2,Berlin,Germany,4877,14300000,EUR
+Wonka Industries 3 Inc,Paris,France,1323,11100000,EUR
+Umbrella Logistics 4 Inc,Berlin,Germany,695,28300000,GBP
+Cyberdyne Systems 5,Milan,Italy,1625,36100000,EUR
+Wayne Enterprises 6,London,United Kingdom,1957,44400000,USD
+Initech Solutions 7 Ltd,Milan,Italy,1451,27400000,EUR
+Globex Industries 8 Inc,Madrid,Spain,312,41300000,USD
+Gringotts Bank 9 Ltd,Madrid,Spain,2219,7200000,GBP
+Massive Dynamic 10,Madrid,Spain,4224,25300000,EUR
+Soylent Foods 11 SA,Amsterdam,Netherlands,1360,40600000,GBP
+Umbrella Logistics 12 Inc,Amsterdam,Netherlands,4448,38500000,GBP
+Hooli Technologies 13 Inc,Milan,Italy,921,44600000,GBP
+Acme Corporation 14,Milan,Italy,2705,25100000,EUR
+Wayne Enterprises 15 GmbH,Madrid,Spain,524,12400000,EUR
+Tyrell Group 16 GmbH,Milan,Italy,1402,13600000,GBP
+Wayne Enterprises 17 GmbH,Berlin,Germany,3109,22500000,USD
+Massive Dynamic 18,London,United Kingdom,631,36300000,EUR
+Soylent Foods 19 SA,Amsterdam,Netherlands,4727,29600000,EUR
+Aviato Holdings 20 SA,Madrid,Spain,822,5000000,USD
+Globex Industries 21,Berlin,Germany,2829,41000000,EUR
+Initech Solutions 22,Berlin,Germany,4558,5100000,GBP
+Acme Corporation 23 SA,London,United Kingdom,1986,8600000,USD
+Gringotts Bank 24 GmbH,Paris,France,3515,35700000,GBP
+Soylent Foods 25,Madrid,Spain,2480,11200000,GBP
+Globex Industries 26,Amsterdam,Netherlands,2619,3000000,GBP
+Initech Solutions 27 Ltd,Milan,Italy,606,34600000,USD
+Aviato Holdings 28 GmbH,Amsterdam,Netherlands,4831,29000000,USD
+Vehement Capital 29 Inc,Amsterdam,Netherlands,2623,12300000,USD
+Acme Corporation 30,Berlin,Germany,4662,5200000,GBP
+Hooli Technologies 31 Inc,Berlin,Germany,4500,36100000,GBP
+Acme Corporation 32,Amsterdam,Netherlands,4593,15400000,EUR
+Vehement Capital 33 SA,Amsterdam,Netherlands,2212,25900000,USD
+Globex Industries 34 Inc,London,United Kingdom,3519,42500000,EUR
+Aviato Holdings 35,Milan,Italy,129,5800000,GBP
+Globex Industries 36 Ltd,Paris,France,4821,28300000,USD
+Aviato Holdings 37 Ltd,Milan,Italy,1316,47400000,EUR
+Hooli Technologies 38 Inc,Berlin,Germany,253,9200000,USD
+Massive Dynamic 39,Paris,France,1354,40400000,USD
+Tyrell Group 40 SA,Madrid,Spain,1684,41900000,USD
+Initech Solutions 41 GmbH,Paris,France,2926,32900000,USD
+Wonka Industries 42 Inc,London,United Kingdom,994,45000000,EUR
+Wonka Industries 43 SA,Berlin,Germany,4239,6000000,GBP
+Vehement Capital 44 Inc,Paris,France,3583,3600000,GBP
+Wayne Enterprises 45 SA,Milan,Italy,1092,9900000,GBP
+Hooli Technologies 46 SA,Milan,Italy,4712,15500000,GBP
+Wayne Enterprises 47 GmbH,Paris,France,1771,22100000,GBP
+Gringotts Bank 48 Ltd,Berlin,Germany,3672,34600000,GBP
+Wonka Industries 49 Inc,London,United Kingdom,1974,34500000,EUR
+Soylent Foods 50 SA,London,United Kingdom,428,12600000,GBP
+Initech Solutions 51 GmbH,Berlin,Germany,3445,45400000,EUR
+Pied Piper 52 Ltd,Berlin,Germany,3323,12500000,GBP
+Umbrella Logistics 53 GmbH,Berlin,Germany,1842,9100000,USD
+Wonka Industries 54 GmbH,Berlin,Germany,4185,21900000,USD
+Tyrell Group 55 Ltd,Berlin,Germany,2173,38500000,GBP
+Massive Dynamic 56 GmbH,Paris,France,2801,16400000,EUR
+Gringotts Bank 57 SA,Berlin,Germany,560,10600000,USD
+Acme Corporation 58,Milan,Italy,3166,24500000,USD
+Massive Dynamic 59 SA,Berlin,Germany,1847,14000000,USD
+Acme Corporation 60,Berlin,Germany,4898,28900000,EUR
+Soylent Foods 61 Inc,Berlin,Germany,1538,2600000,USD
+Aviato Holdings 62,Paris,France,720,24100000,GBP
+Globex Industries 63,London,United Kingdom,2075,10300000,GBP
+Cyberdyne Systems 64 Ltd,Madrid,Spain,988,39900000,USD
+Vehement Capital 65 Ltd,London,United Kingdom,4900,35400000,EUR
+Wayne Enterprises 66,Amsterdam,Netherlands,4968,41300000,GBP
+Cyberdyne Systems 67 Inc,Milan,Italy,3559,33900000,EUR
+Cyberdyne Systems 68 Ltd,Amsterdam,Netherlands,3816,36300000,USD
+Tyrell Group 69 GmbH,Berlin,Germany,3618,42300000,USD
+Gringotts Bank 70,Milan,Italy,3154,17300000,USD
+Hooli Technologies 71 Inc,Berlin,Germany,1787,18200000,USD
+Aviato Holdings 72 Ltd,Berlin,Germany,4598,38900000,GBP
+Massive Dynamic 73 SA,Paris,France,4814,18900000,GBP
+Massive Dynamic 74,London,United Kingdom,1627,16200000,GBP
+Wayne Enterprises 75 Ltd,London,United Kingdom,1640,15200000,USD
+Soylent Foods 76,Amsterdam,Netherlands,4071,5300000,GBP
+Tyrell Group 77 SA,London,United Kingdom,585,20600000,EUR
+Initech Solutions 78 SA,Madrid,Spain,1020,28600000,GBP
+Aviato Holdings 79,Paris,France,4708,31800000,GBP
+Umbrella Logistics 80,Madrid,Spain,1778,13600000,EUR
+Tyrell Group 81 Inc,Paris,France,317,11900000,GBP
+Vehement Capital 82 Ltd,Berlin,Germany,990,27900000,GBP
+Wayne Enterprises 83 Inc,Berlin,Germany,1068,24000000,GBP
+Aviato Holdings 84 Inc,Amsterdam,Netherlands,2690,31000000,EUR
+Stark Manufacturing 85 Ltd,Milan,Italy,379,39100000,USD
+Tyrell Group 86 SA,London,United Kingdom,3900,17900000,USD
+Pied Piper 87,Milan,Italy,350,23300000,USD
+Gringotts Bank 88 GmbH,Berlin,Germany,494,9700000,USD
+Tyrell Group 89,Amsterdam,Netherlands,3671,39000000,EUR
+Massive Dynamic 90 GmbH,Amsterdam,Netherlands,1347,16000000,EUR
+Soylent Foods 91 Inc,Berlin,Germany,2440,26100000,USD
+Tyrell Group 92 Ltd,Madrid,Spain,3791,28300000,USD
+Wonka Industries 93,Milan,Italy,2238,42100000,USD
+Tyrell Group 94 SA,Madrid,Spain,3708,27600000,USD
+Massive Dynamic 95 SA,Milan,Italy,3187,12000000,EUR
+Soylent Foods 96 GmbH,Berlin,Germany,353,6500000,GBP
+Soylent Foods 97 SA,Berlin,Germany,1314,3900000,USD
+Wonka Industries 98 GmbH,Amsterdam,Netherlands,4047,44700000,EUR
+Massive Dynamic 99,Amsterdam,Netherlands,2404,11700000,USD
+Umbrella Logistics 100 Inc,Berlin,Germany,1412,35600000,EUR
+Hooli Technologies 101 GmbH,Madrid,Spain,1484,4100000,USD
+Massive Dynamic 102 Ltd,Berlin,Germany,4827,7400000,USD
+Gringotts Bank 103 SA,Paris,France,126,46100000,USD
+Hooli Technologies 104 Inc,London,United Kingdom,3668,48400000,GBP
+Pied Piper 105 SA,Berlin,Germany,923,12200000,GBP
+Stark Manufacturing 106,London,United Kingdom,4686,44300000,GBP
+Wayne Enterprises 107 Ltd,Madrid,Spain,2936,11300000,GBP
+Gringotts Bank 108 Ltd,London,United Kingdom,4797,18700000,EUR
+Wonka Industries 109 Ltd,Amsterdam,Netherlands,3453,9000000,EUR
+Cyberdyne Systems 110 Inc,Milan,Italy,4160,46800000,EUR
+Gringotts Bank 111 Ltd,London,United Kingdom,1203,38700000,GBP
+Pied Piper 112 SA,Milan,Italy,3046,4700000,EUR
+Massive Dynamic 113 GmbH,Berlin,Germany,255,31800000,USD
+Massive Dynamic 114 SA,Amsterdam,Netherlands,567,32600000,GBP
+Tyrell Group 115 GmbH,London,United Kingdom,846,12100000,EUR
+Aviato Holdings 116 SA,Amsterdam,Netherlands,861,42700000,GBP
+Cyberdyne Systems 117 Inc,London,United Kingdom,3059,27900000,EUR
+Vehement Capital 118,Amsterdam,Netherlands,4941,49800000,EUR
+Massive Dynamic 119,Madrid,Spain,4675,10600000,GBP
+Acme Corporation 120 GmbH,Paris,France,1235,6700000,USD
+Umbrella Logistics 121,Amsterdam,Netherlands,261,6800000,USD
+Massive Dynamic 122 Ltd,Milan,Italy,2702,900000,USD
+Cyberdyne Systems 123 SA,Milan,Italy,4913,5600000,GBP
+Globex Industries 124,Berlin,Germany,3340,21900000,USD
+Gringotts Bank 125 GmbH,London,United Kingdom,711,16500000,EUR
+Wayne Enterprises 126 SA,Berlin,Germany,4191,31000000,EUR
+Umbrella Logistics 127 Ltd,Amsterdam,Netherlands,4566,37000000,USD
+Umbrella Logistics 128 Inc,Paris,France,3546,16100000,USD
+Tyrell Group 129,London,United Kingdom,797,42600000,EUR
+Wonka Industries 130 Inc,Amsterdam,Netherlands,1051,21100000,GBP
+Aviato Holdings 131 Inc,Amsterdam,Netherlands,471,49600000,GBP
+Cyberdyne Systems 132 Inc,Milan,Italy,3061,5900000,GBP
+Acme Corporation 133 Ltd,Milan,Italy,2240,1500000,USD
+Wayne Enterprises 134 Ltd,Paris,France,2925,400000,EUR
+Vehement Capital 135 Inc,Berlin,Germany,3489,23300000,EUR
+Globex Industries 136 SA,Amsterdam,Netherlands,718,14000000,GBP
+Umbrella Logistics 137 GmbH,Paris,France,4908,25000000,GBP
+Soylent Foods 138,Paris,France,2421,16800000,EUR
+Cyberdyne Systems 139,London,United Kingdom,3302,44200000,USD
+Aviato Holdings 140,Paris,France,993,20800000,USD
+Aviato Holdings 141 GmbH,London,United Kingdom,2043,22400000,USD
+Umbrella Logistics 142 Inc,Milan,Italy,4227,10000000,USD
+Soylent Foods 143 Inc,Madrid,Spain,892,7500000,EUR
+Gringotts Bank 144 GmbH,Milan,Italy,4797,23000000,GBP
+Wonka Industries 145 SA,Amsterdam,Netherlands,2639,7800000,EUR
+Gringotts Bank 146 Inc,London,United Kingdom,516,18900000,EUR
+Initech Solutions 147 SA,Milan,Italy,4916,26000000,USD
+Vehement Capital 148 Ltd,Paris,France,3946,25700000,EUR
+Gringotts Bank 149 GmbH,Berlin,Germany,4343,26800000,EUR
+Globex Industries 150 Inc,Amsterdam,Netherlands,2791,3400000,EUR
+Soylent Foods 151 Ltd,Paris,France,717,29900000,USD
+Wayne Enterprises 152 Inc,Milan,Italy,3135,33000000,EUR
+Initech Solutions 153 Inc,Amsterdam,Netherlands,3518,26100000,EUR
+Massive Dynamic 154 Inc,Madrid,Spain,1319,4000000,EUR
+Soylent Foods 155 Ltd,Milan,Italy,3136,7900000,EUR
+Hooli Technologies 156 SA,Amsterdam,Netherlands,3635,2300000,USD
+Massive Dynamic 157 SA,Berlin,Germany,2384,38600000,EUR
+Gringotts Bank 158 SA,Berlin,Germany,2358,39900000,GBP
+Globex Industries 159 Inc,Amsterdam,Netherlands,3986,44800000,GBP
+Umbrella Logistics 160 Ltd,Paris,France,737,39100000,USD
+Gringotts Bank 161,Paris,France,268,21300000,USD
+Wonka Industries 162 Inc,Madrid,Spain,1177,2000000,USD
+Soylent Foods 163 GmbH,Amsterdam,Netherlands,3892,23000000,EUR
+Acme Corporation 164 Ltd,Paris,France,1816,42800000,GBP
+Aviato Holdings 165 Inc,London,United Kingdom,2410,12200000,EUR
+Acme Corporation 166 Ltd,Amsterdam,Netherlands,4271,29500000,GBP
+Initech Solutions 167 GmbH,Milan,Italy,3004,3500000,GBP
+Cyberdyne Systems 168,Paris,France,183,18300000,USD
+Soylent Foods 169 Inc,London,United Kingdom,2936,28000000,GBP
+Soylent Foods 170 Inc,London,United Kingdom,3799,1900000,EUR
+Tyrell Group 171 Ltd,Paris,France,349,38600000,USD
+Gringotts Bank 172 Ltd,Berlin,Germany,2827,49900000,USD
+Cyberdyne Systems 173,Milan,Italy,2234,41100000,GBP
+Wayne Enterprises 174 SA,Paris,France,3702,30900000,EUR
+Cyberdyne Systems 175 Inc,Berlin,Germany,396,37300000,GBP
+Stark Manufacturing 176 SA,Amsterdam,Netherlands,519,3900000,USD
+Globex Industries 177 Inc,Madrid,Spain,600,12100000,USD
+Cyberdyne Systems 178 Ltd,Berlin,Germany,679,29400000,GBP
+Hooli Technologies 179 GmbH,Berlin,Germany,4291,19900000,EUR
+Tyrell Group 180,Madrid,Spain,1054,7000000,USD
+Wonka Industries 181,Amsterdam,Netherlands,2896,36400000,GBP
+Hooli Technologies 182,Paris,France,4217,11500000,EUR
+Massive Dynamic 183 GmbH,Berlin,Germany,265,18500000,GBP
+Wayne Enterprises 184 SA,Berlin,Germany,3971,27000000,USD
+Initech Solutions 185,Madrid,Spain,2647,32900000,USD
+Hooli Technologies 186,Madrid,Spain,3594,25800000,EUR
+Wayne Enterprises 187 GmbH,London,United Kingdom,2102,10100000,USD
+Soylent Foods 188 GmbH,Madrid,Spain,2815,43200000,EUR
+Acme Corporation 189 GmbH,London,United Kingdom,422,48600000,USD
+Aviato Holdings 190 GmbH,Milan,Italy,298,25500000,USD
+Wayne Enterprises 191 SA,Berlin,Germany,2056,41300000,USD
+Wonka Industries 192 Inc,Milan,Italy,1226,16100000,GBP
+Cyberdyne Systems 193 Inc,Berlin,Germany,1121,39000000,GBP
+Wayne Enterprises 194 Ltd,Berlin,Germany,3475,12800000,USD
+Wonka Industries 195 GmbH,Madrid,Spain,1355,25600000,USD
+Massive Dynamic 196,Madrid,Spain,4828,18100000,EUR
+Aviato Holdings 197 Inc,Madrid,Spain,2216,37300000,USD
+Gringotts Bank 198 GmbH,Milan,Italy,2341,42300000,GBP
+Soylent Foods 199 Inc,London,United Kingdom,3276,19200000,GBP
