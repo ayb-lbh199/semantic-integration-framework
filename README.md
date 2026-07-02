@@ -1,7 +1,7 @@
 # Semantic Integration Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21134670.svg)](https://doi.org/10.5281/zenodo.21134670)
 
 An interpretable, auditable pipeline for enterprise data integration. The
 framework moves heterogeneous source records through four modules —
