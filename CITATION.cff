@@ -35,7 +35,7 @@ keywords:
 # Replace the DOI placeholder below once Zenodo issues the DOI for v1.0.0.
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.PLACEHOLDER"
+    value: "10.5281/zenodo.21134670"
     description: "Permanent DOI for v1.0.0 (Zenodo)"
 preferred-citation:
   type: conference-paper
